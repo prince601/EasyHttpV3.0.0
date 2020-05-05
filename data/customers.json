@@ -1,0 +1,29 @@
+[{
+        "id": 1,
+        "name": "prince kab",
+        "company": "tech Overflow",
+        "phone": "999-632-888",
+        "email": "princekab603@outlook.com"
+    },
+    {
+        "id": 2,
+        "name": "Junior kal",
+        "company": "adobe corp",
+        "phone": "888-632-888",
+        "email": "kaljunior@outlook.com"
+    },
+    {
+        "id": 3,
+        "name": "jane doe",
+        "company": "cia",
+        "phone": "999-632-111",
+        "email": "janedoe@cia.com"
+    },
+    {
+        "id": 4,
+        "name": "matild",
+        "company": "figma",
+        "phone": "999-632-841",
+        "email": "matild@figma.com"
+    }
+]
